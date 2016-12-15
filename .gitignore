@@ -1,0 +1,9 @@
+# Road classifier datasets and logs
+datasets/*
+!datasets/placeholder.txt
+
+logs/*
+!logs/placeholder.txt
+
+trained_models/*
+!trained_models/placeholder.txt
